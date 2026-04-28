@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MalFunction.Pipe", "MalFunction.Pipe\MalFunction.Pipe.csproj", "{691CF7B4-B48E-4648-AF4F-7EA754E648EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691CF7B4-B48E-4648-AF4F-7EA754E648EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691CF7B4-B48E-4648-AF4F-7EA754E648EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691CF7B4-B48E-4648-AF4F-7EA754E648EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691CF7B4-B48E-4648-AF4F-7EA754E648EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E731C419-D731-455A-A268-26F461F55B5E}
+	EndGlobalSection
+EndGlobal
