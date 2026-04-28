@@ -1,9 +1,9 @@
 # Frostware.Pipe
-[![nuget](https://img.shields.io/nuget/v/Frostware.Pipe?style=flat-square)](https://www.nuget.org/packages/Frostware.Pipe/)
-[![openupm](https://img.shields.io/npm/v/com.frostware.pipe?label=openupm&registry_uri=https://package.openupm.com&style=flat-square)](https://openupm.com/packages/com.frostware.pipe/)
+[![nuget](https://img.shields.io/nuget/v/Frostware.Pipe?style=flat-square)](https://www.nuget.org/packages/MalFunction.Pipe/)
 
 
-A lightweight piping library for C#
+
+Functional piping for C#
 
 ## Table of contents
 * [Why Piping?](#why-piping)
